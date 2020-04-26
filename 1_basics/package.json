@@ -1,0 +1,23 @@
+{
+  "name": "1_basics",
+  "version": "1.0.0",
+  "description": "``` tsc app.ts ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaD1ke-edu/typescript_learn.git"
+  },
+  "author": "VaD1ke-edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaD1ke-edu/typescript_learn/issues"
+  },
+  "homepage": "https://github.com/VaD1ke-edu/typescript_learn#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
